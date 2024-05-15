@@ -1,7 +1,1 @@
-👋 Hi, I’m Yash Sharma
-👀 I’m interested in Vlogging
-🌱 I’m currently learning Programming
-🏅 I'm a State and National player of 🧘 yoga
-⚡ I'm always energetic and eager to learn new skill
-😏 I enjoy facing challenges
-⚡ I never give up until I get something right
+👋 Hi, I’m Yash Sharma. 👀 I’m interested in Vlogging and capturing moments that inspire and entertain. 🌱 I’m currently delving into the world of Programming, eager to expand my skills and create innovative projects. 🏅 Outside of the digital realm, I'm a State and National player of yoga, finding peace and balance through mindful practice. ⚡ I'm always energetic and driven, constantly seeking out new opportunities to learn and grow. 😏 I thrive on challenges, embracing them as opportunities for personal and professional development. ⚡ With a relentless spirit, I never give up until I've mastered the task at hand.
